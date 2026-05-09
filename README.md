@@ -84,6 +84,21 @@ These metrics help measure prediction accuracy and model reliability.
 
 ---
 
+## Dataset
+
+The original dataset used in this project is available on Kaggle due to its large size exceeding GitHub upload limits.
+
+Dataset Link:
+https://www.kaggle.com/datasets/waleedeltanany/geo-tiffs
+
+The dataset contains multi seasonal GeoTIFF remote sensing files used for soil moisture prediction and geospatial analysis.
+
+---
+
+## Kaggle Notebook
+
+The complete implementation and training workflow were developed and tested using Kaggle Notebook environment with GPU acceleration support.
+
 ## Project Structure
 
 ```bash
